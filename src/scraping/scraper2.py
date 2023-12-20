@@ -15,7 +15,6 @@ ID = os.environ.get("ID")
 SECRET = os.environ.get("SECRET")
 USERAGENT = os.environ.get("USERAGENT")
 PWR = os.environ.get("PWR")
-USER = os.environ.get("USER")
 
 
 
