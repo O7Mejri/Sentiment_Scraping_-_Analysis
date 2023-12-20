@@ -27,4 +27,4 @@ def scrape_post(sub, output_folder="./pics"):
                          username=USER)
     print(reddit.user.me())
 
-scrape_post("Cats")
+scrape_post("blackcats")
